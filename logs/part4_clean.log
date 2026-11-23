@@ -1,0 +1,20 @@
+histories 0-500000: all three so far 53, clean so far 4
+histories 500000-1000000: all three so far 95, clean so far 11
+histories 1000000-1500000: all three so far 133, clean so far 11
+histories 1500000-2000000: all three so far 170, clean so far 15
+valid 2000000; all three 170 (burn_scan: 170); clean 15 (burn_scan: 15)
+  history 203872: Omega_phi0 0.607, w0 -0.995, gap peak 2.4e-05
+  history 206915: Omega_phi0 0.605, w0 -0.988, gap peak 3.8e-05
+  history 322539: Omega_phi0 0.606, w0 -0.992, gap peak 3.1e-05
+  history 387333: Omega_phi0 0.614, w0 -0.997, gap peak 1.3e-05
+  history 506259: Omega_phi0 0.622, w0 -0.996, gap peak 1.7e-05
+  history 512675: Omega_phi0 0.607, w0 -0.995, gap peak 2.2e-05
+  history 730216: Omega_phi0 0.625, w0 -0.999, gap peak 1.2e-05
+  history 738732: Omega_phi0 0.616, w0 -0.993, gap peak 4.8e-05
+  history 896580: Omega_phi0 0.612, w0 -0.998, gap peak 1.2e-05
+  history 899002: Omega_phi0 0.607, w0 -0.989, gap peak 3.7e-05
+  history 996421: Omega_phi0 0.617, w0 -0.991, gap peak 4.6e-05
+  history 1506312: Omega_phi0 0.616, w0 -0.995, gap peak 2.4e-05
+  history 1521187: Omega_phi0 0.606, w0 -0.995, gap peak 1.8e-05
+  history 1617006: Omega_phi0 0.615, w0 -0.992, gap peak 3.0e-05
+  history 1748889: Omega_phi0 0.603, w0 -0.989, gap peak 4.5e-05

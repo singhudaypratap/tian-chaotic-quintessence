@@ -1,0 +1,41 @@
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+cand [10.0, 0.01, 0.24, 713]: primary delta chi2 +59.34; lensing delta chi2 +37.56 (model 61.21, LCDM 23.66); total +96.90
+cand [10.0, 0.01, 0.24, 109]: primary delta chi2 +64.32; lensing delta chi2 +16.16 (model 39.81, LCDM 23.66); total +80.48
+cand [10.0, 0.01, 0.24, 227]: primary delta chi2 +67.63; lensing delta chi2 +26.84 (model 50.50, LCDM 23.66); total +94.48

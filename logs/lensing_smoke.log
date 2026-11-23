@@ -1,0 +1,3 @@
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+cand [30.0, 0.01, 0.08, 1023]: primary delta chi2 -2.55; lensing delta chi2 -0.27 (model 23.38, LCDM 23.66); total -2.82

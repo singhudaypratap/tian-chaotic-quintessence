@@ -1,0 +1,19 @@
+{
+ "variant": "actplanck_baseline",
+ "rows": [
+  {
+   "cand": [
+    30.0,
+    0.01,
+    0.08,
+    1023
+   ],
+   "delta_chi2_primary": -2.54647504861623,
+   "chi2_lens_model": 23.38339055468251,
+   "chi2_lens_lcdm": 23.657050796038913,
+   "delta_chi2_lens": -0.2736602413564029,
+   "As_model": 2.089210161757408e-09,
+   "As_lcdm": 2.0892882845513906e-09
+  }
+ ]
+}

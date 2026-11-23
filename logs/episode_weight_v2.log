@@ -1,0 +1,28 @@
+fit_grid_phys20_all.json: Bayes factor with all fitted histories 7.180e-05 (ln B -9.54)
+  share of posterior weight with episode peak <0.01    : 0.427
+  share of posterior weight with episode peak 0.01-0.5 : 0.007
+  share of posterior weight with episode peak 0.5-0.99 : 0.522
+  share of posterior weight with episode peak >=0.99   : 0.044
+  keeping only peak < 0.01: Bayes factor 3.068e-05 (ln B -10.39)
+    marginal of l1: 8: 0.160, 10: 0.098, 12: 0.182, 14: 0.110, 17: 0.058, 20: 0.092, 25: 0.175, 30: 0.125
+    marginal of alpha: 0.08: 0.005, 0.15: 0.083, 0.24: 0.134, 0.4: 0.099, 0.6: 0.248, 0.8: 0.432
+  keeping only peak < 0.5: Bayes factor 3.115e-05 (ln B -10.38)
+    marginal of l1: 8: 0.157, 10: 0.097, 12: 0.179, 14: 0.109, 17: 0.057, 20: 0.091, 25: 0.175, 30: 0.136
+    marginal of alpha: 0.08: 0.005, 0.15: 0.091, 0.24: 0.134, 0.4: 0.100, 0.6: 0.245, 0.8: 0.425
+  keeping only peak < 0.99: Bayes factor 6.866e-05 (ln B -9.59)
+    marginal of l1: 8: 0.071, 10: 0.044, 12: 0.081, 14: 0.069, 17: 0.066, 20: 0.095, 25: 0.240, 30: 0.335
+    marginal of alpha: 0.08: 0.019, 0.15: 0.416, 0.24: 0.205, 0.4: 0.047, 0.6: 0.120, 0.8: 0.193
+fit_grid_phys40_all.json: Bayes factor with all fitted histories 7.712e-05 (ln B -9.47)
+  share of posterior weight with episode peak <0.01    : 0.465
+  share of posterior weight with episode peak 0.01-0.5 : 0.006
+  share of posterior weight with episode peak 0.5-0.99 : 0.510
+  share of posterior weight with episode peak >=0.99   : 0.020
+  keeping only peak < 0.01: Bayes factor 3.583e-05 (ln B -10.24)
+    marginal of l1: 8: 0.297, 10: 0.073, 12: 0.058, 14: 0.149, 17: 0.192, 20: 0.057, 25: 0.122, 30: 0.052
+    marginal of alpha: 0.08: 0.004, 0.15: 0.066, 0.24: 0.086, 0.4: 0.069, 0.6: 0.313, 0.8: 0.462
+  keeping only peak < 0.5: Bayes factor 3.630e-05 (ln B -10.22)
+    marginal of l1: 8: 0.293, 10: 0.072, 12: 0.057, 14: 0.147, 17: 0.190, 20: 0.056, 25: 0.130, 30: 0.055
+    marginal of alpha: 0.08: 0.007, 0.15: 0.073, 0.24: 0.088, 0.4: 0.068, 0.6: 0.309, 0.8: 0.456
+  keeping only peak < 0.99: Bayes factor 7.562e-05 (ln B -9.49)
+    marginal of l1: 8: 0.141, 10: 0.035, 12: 0.028, 14: 0.077, 17: 0.125, 20: 0.102, 25: 0.207, 30: 0.287
+    marginal of alpha: 0.08: 0.018, 0.15: 0.394, 0.24: 0.173, 0.4: 0.045, 0.6: 0.150, 0.8: 0.220

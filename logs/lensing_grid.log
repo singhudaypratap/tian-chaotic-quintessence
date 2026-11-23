@@ -1,0 +1,148 @@
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/home/poornima/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:422: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+Not using attractor initial conditions
+cand [30.0, 0.01, 0.08, 1023]: primary delta chi2 -2.55; lensing delta chi2 -0.27 (model 23.38, LCDM 23.66); total -2.82
+cand [10.0, 0.01, 0.4, 1107]: primary delta chi2 -2.48; lensing delta chi2 +0.79 (model 24.45, LCDM 23.66); total -1.68
+cand [10.0, 0.01, 0.6, 414]: primary delta chi2 -2.40; lensing delta chi2 +0.83 (model 24.49, LCDM 23.66); total -1.57
+cand [8.0, 0.01, 0.6, 1036]: primary delta chi2 -2.22; lensing delta chi2 -0.22 (model 23.44, LCDM 23.66); total -2.44
+cand [14.0, 0.01, 0.8, 704]: primary delta chi2 -2.18; lensing delta chi2 +0.42 (model 24.08, LCDM 23.66); total -1.75
+cand [12.0, 0.01, 0.8, 64]: primary delta chi2 -2.14; lensing delta chi2 +0.67 (model 24.32, LCDM 23.66); total -1.47
+cand [10.0, 0.01, 0.8, 996]: primary delta chi2 -2.04; lensing delta chi2 -0.04 (model 23.62, LCDM 23.66); total -2.08
+cand [14.0, 0.01, 0.6, 1386]: primary delta chi2 -1.78; lensing delta chi2 -0.83 (model 22.83, LCDM 23.66); total -2.61
+cand [8.0, 0.01, 0.8, 1428]: primary delta chi2 -1.71; lensing delta chi2 -0.74 (model 22.92, LCDM 23.66); total -2.45
+cand [10.0, 0.01, 0.6, 437]: primary delta chi2 -1.45; lensing delta chi2 -0.83 (model 22.82, LCDM 23.66); total -2.29
